@@ -1,4 +1,4 @@
-const liste_site = [
+[
 {"nom": "Deezer", "url": "https://www.deezer.com/fr/", "url_image": "./Images/Deezer.png"},
 {"nom": "Netflix", "url": "https://www.netflix.com/", "url_image": "./Images/Netflix.png"},
 {"nom": "Apple", "url": "https://www.apple.com/fr/", "url_image": "./Images/Apple.png"},
